@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.java</groupId>
-  <artifactId>practice</artifactId>
+  <artifactId>Java_Practice</artifactId>
   <version>1.0.0</version>
 
-  <name>Streams_Lambdas_Day1</name>
+  <name>Java_Practice</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
